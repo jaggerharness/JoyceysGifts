@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/jaggerharness/.dotnet/store/|arch|/|tfm|",
+      "/Users/jaggerharness/.nuget/packages"
+    ]
+  }
+}
